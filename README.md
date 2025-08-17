@@ -4,7 +4,11 @@ A powerful command-line interface (CLI) tool that reads website frontends and ge
 
 ## Video Demo
 
-[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+
+https://github.com/user-attachments/assets/ac2c424d-1ef1-4e6c-8e4c-7f93d5d0a592
+
+
 
 ## ✨ Features
 
